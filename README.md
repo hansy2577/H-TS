@@ -1,4 +1,4 @@
-# <img width="90" height="89" alt="NTS icon1" src="https://github.com/hansy2577/H-TS/blob/main/icon.png"/>  H.TS-apha 
+# <img width="90" height="89" alt="NTS icon1" src="https://github.com/hansy2577/H-TS/blob/main/HTS icon.png"/>  H.TS-apha 
 
 <img width="800" height="800" alt="NTS icon1" src="https://github.com/hansy2577/H-TS/blob/main/logo/Banner1%20but%20better.png"/>
 
