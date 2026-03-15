@@ -43,6 +43,7 @@ how drive the train ?,this depends the train you've chosen but i fast !,you just
 # other... :
 ## think i have to do :
 - [x] playable on phone/pc
+- [x] new BG animations system ( for more octimisation )
 - [ ] fixe bug
 - [ ] custom menu colors
 - [X] octimisation
