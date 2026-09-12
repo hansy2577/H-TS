@@ -6,6 +6,8 @@
 <strong>T</strong>ransport
 <strong>S</strong>imulations version bêta
 
+# the game is no longer maintened, the game is discontinued sorry :/ !
+
 <br>
 <br>
 
@@ -51,4 +53,4 @@ how drive the train ?,this depends the train you've chosen but i fast !,you just
 - [ ] extension system
 
 ## what you can do to make the game better 
-Please help this little project by playing ,suggesting mechanics, report bugs,... that will motivate me :>. <br><br> * the game is in W.I.P!
+Please help this little project by playing ,suggesting mechanics, report bugs,... that will motivate me :>. <br>
